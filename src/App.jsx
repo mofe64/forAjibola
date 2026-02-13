@@ -35,7 +35,8 @@ function App() {
         <section className="w-full max-w-xl rounded-3xl border border-red-200 bg-white p-8 text-center shadow-lg shadow-red-100">
           <h1 className="text-3xl font-bold text-red-600 sm:text-4xl">Error 404</h1>
           <p className="mt-5 text-lg leading-relaxed text-slate-700">
-            Reply not accepted. Go back and press the right thing before I knock you.
+            And I knew you’d press it ooo, anyways reply not accepted. Go back and press the right
+            thing before I knock you.
           </p>
           <button
             type="button"
@@ -116,7 +117,7 @@ function App() {
             <div className="p-4 sm:p-5">
               <h2 className="text-2xl font-semibold text-emerald-700">Yes</h2>
               <p className="mt-2 text-sm text-slate-600">
-                Tap if you&apos;re ready for a valentine&apos;s for the books.
+                Tap if you&apos;re ready to have a Valentines for the books 🙈🙈🙈
               </p>
             </div>
           </button>
