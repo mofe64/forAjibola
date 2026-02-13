@@ -18,7 +18,7 @@ function App() {
     {
       title: 'Massage',
       image: massageImage,
-      text: "You've had a long week. Let the professionals take care of you :)",
+      text: "You've have a long week. Let the professionals take care of you, and let me tag along ;)",
       alt: 'Relaxing massage experience',
     },
     {
@@ -54,8 +54,7 @@ function App() {
       <main className="mx-auto min-h-screen w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-12">
         <section className="rounded-3xl border border-rose-100 bg-white/90 p-6 shadow-xl shadow-rose-100 backdrop-blur sm:p-10">
           <h1 className="mx-auto max-w-4xl text-center text-3xl font-bold leading-tight text-rose-700 sm:text-4xl lg:text-5xl">
-            Thank you my sunshine for saying yes! Let&apos;s have a day of love and see what I&apos;ve
-            planned for us.
+            Thank you my sunshine for saying yes! See the next 24 hours of love in store :)
           </h1>
           <p className="mt-4 text-center text-sm text-slate-600 sm:text-base">
             A little journey made just for us.
@@ -116,7 +115,9 @@ function App() {
             />
             <div className="p-4 sm:p-5">
               <h2 className="text-2xl font-semibold text-emerald-700">Yes</h2>
-              <p className="mt-2 text-sm text-slate-600">Tap here if you&apos;re ready for love day plans.</p>
+              <p className="mt-2 text-sm text-slate-600">
+                Tap if you&apos;re ready for a valentine&apos;s for the books.
+              </p>
             </div>
           </button>
 
